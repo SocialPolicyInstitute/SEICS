@@ -1,3 +1,7 @@
-This repository contains the data and code used in the paper "TITLE" submitted to PLoS One (DOI and link forthcoming). 
+This repository contains the data and code used in the paper "Coping with COVID-19: Differences in hope, resilience, and mental well-being across U.S. racial groups" submitted to PLoS One (DOI and link forthcoming). 
+This folder includes three files as follows:
+  - README
+  - data.csv: include all variables in use
+  - codebook.xslx: provides variables' description, values, and related survey questionnaires. 
 These data were drawn from the Socio-economic Impacts of COVID-19 Survey by the Social Policy Institute at Washington University in St. Louis (https://socialpolicyinstitute.wustl.edu/covid-19-survey-methodology-report/). 
 If you have any questions about the data, the paper, or the survey, please reach out to yung.chun@wustl.edu or stephen.roll@wustl.edu.
